@@ -1,2 +1,2 @@
 # Hello-world
-I want learn code from here.thanks.
+I want to learn code from here.thanks.
